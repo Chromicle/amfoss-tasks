@@ -1,0 +1,2 @@
+client id :  1089236173968-hlk00jsm376q6htva3ms6ga488e81bfp.apps.googleusercontent.com 
+client secret:   dT8QmECRi39VH49eNyDw1s6r 
