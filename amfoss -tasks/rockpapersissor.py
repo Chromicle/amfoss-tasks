@@ -2,6 +2,7 @@ import random
 import time
 cscore=0
 yscore=0
+
 choose="a"
 game= ["rock","paper","scissors"]
 
